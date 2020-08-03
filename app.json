@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Mazadak",
+    "slug": "Mazadak",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "343532539973569",
+    "facebookScheme": "fb343532539973569",
+    "facebookDisplayName": "mazadak",
+    "extra":{
+      "googleAppId": {
+        "ios": "227041967867-91vcocpl037altkb829757nemahhohi3.apps.googleusercontent.com",
+        "android": "227041967867-5tkmdbmeuiv9nl78ik1jfa7c3h1t0k7m.apps.googleusercontent.com"
+      }
+    }
+  }
+}

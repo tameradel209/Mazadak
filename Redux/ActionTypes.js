@@ -1,0 +1,7 @@
+export const LOADING = 'LOADING'
+export const RESTORE_TOKEN = 'RESTORE_TOKEN'
+export const SIGN_IN = 'SIGN_IN'
+export const SIGN_OUT = 'SIGN_OUT'
+export const ERROR = 'ERROR'
+export const FAVORITE = 'FAVORITE'
+export const UNFAVORITE = 'UNFAVORITE'
